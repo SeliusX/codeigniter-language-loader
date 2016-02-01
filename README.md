@@ -7,7 +7,7 @@ The Hook does the following things:
 - storing the user language in the session (to be able to switch)
 - loading all language-files for the detected language
 
-Depenency:
+Depenencies:
 - Make sure to erase language selection in config.php
 - This Hook uses the international standard
 
